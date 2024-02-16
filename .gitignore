@@ -1,6 +1,7 @@
 /.ipynb_checkpoints
 /data/*.csv
 /*.csv
+/*.xml
 /*.html
 /animelist.txt
 /mal.ipynb
