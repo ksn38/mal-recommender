@@ -2,7 +2,7 @@
 https://www.kaggle.com/hernan4444/anime-recommendation-database-2020  
 
 Insert kaggle tables in mal-recommender/data folder  
-Save xml file with your exported anime list in map-recommender folder and extract the data by mal-extract.ipynb  
+Save xml file with your exported animelist in map-recommender folder  
 In the case of "Memory Error", reduce quartile3 or increase quartile1  
  
 ![pic](https://github.com/ksn38/mal-recommender/blob/main/data/pic.png)
